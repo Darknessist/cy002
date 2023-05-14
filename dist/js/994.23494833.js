@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_app"]=self["webpackChunkvue_app"]||[]).push([[994],{9994:function(e,u,n){n.r(u),n.d(u,{default:function(){return c}});var t=function(){var e=this,u=e._self._c;return u("h2",[e._v(" 我是home界面 ")])},r=[],a={name:"home",data(){return{}}},l=a,p=n(1001),s=(0,p.Z)(l,t,r,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=994.23494833.js.map
